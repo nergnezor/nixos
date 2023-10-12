@@ -1,5 +1,6 @@
 /*
 !.gitignore
+!configuration.nix
 !.config
 .config/*
 !.config/alacritty
